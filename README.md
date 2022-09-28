@@ -1,4 +1,4 @@
-# MevSec
+# MevSec Research
 MEV bot security in Ethereum
 
 ## DeFi
