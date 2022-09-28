@@ -5,7 +5,7 @@ MEV bot security in Ethereum
 ##  MEV Bot
 
 
-## Pos security 
+## PoS security 
 
 
 ## Private transactions
