@@ -10,8 +10,6 @@ MEV bot security in Ethereum: Know about MEV bot,build a MEV bot,and learn to ho
 
 [MEV and EIP-1559](https://hackmd.io/@flashbots/MEV-1559)
 
-[EIP-1559](https://github.com/d3centralized/eip-1559-empirical-study)
-
 [MEV-bot implementation example](https://github.com/flashbots/ethers-provider-flashbots-bundle#example)
 
 
@@ -22,7 +20,7 @@ MEV bot security in Ethereum: Know about MEV bot,build a MEV bot,and learn to ho
 
 [Quantifying Blockchain Extractable Value: How dark is the forest?](http://arxiv.org/abs/2101.05511)
 
-[Empirical Analysis of EIP-1559: Transaction Fees, Waiting Time, and Consensus Security](https://arxiv.org/pdf/2201.05574.pdf)
+[Empirical Analysis of EIP-1559: Transaction Fees, Waiting Time, and Consensus Security](https://arxiv.org/pdf/2201.05574.pdf)[code](https://github.com/d3centralized/eip-1559-empirical-study)
 
 [An Empirical Study on Ethereum Private Transactions and the Security Implications](https://arxiv.org/abs/2208.02858)
 
