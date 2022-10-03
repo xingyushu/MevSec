@@ -25,9 +25,6 @@ MEV bot security in Ethereum: Know about MEV bot,build a MEV bot,and learn to ho
 [An Empirical Study on Ethereum Private Transactions and the Security Implications](https://arxiv.org/abs/2208.02858)
 
 
-## PoS security 
+## How to conduct security research 
 
-
-
-
-
+[Monitoring the Ethereum mempool](https://github.com/0xpanoramix/eth-mempool-listener-go)
