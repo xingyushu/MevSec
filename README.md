@@ -26,6 +26,8 @@ MEV bot security in Ethereum: Know about MEV bot,build a MEV bot,and learn to ho
 
 [An Empirical Study on Ethereum Private Transactions and the Security Implications](https://arxiv.org/abs/2208.02858)
 
+[Extracting Godl [sic] from the Salt Mines:Ethereum Miners Extracting Value](https://arxiv.org/pdf/2203.15930.pdf)
+
 
 ## How to conduct security research 
 
