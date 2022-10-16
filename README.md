@@ -38,3 +38,8 @@ MEV bot security in Ethereum: Know about MEV bot,build a MEV bot,and learn to ho
 [Opensource mempool data](http://147.135.6.228/)
 
 [MEV github collection](https://github.com/topics/mev)
+
+
+## How to detect MEV
+
+[MEV-inspect: Arbitrage,Liqudation](https://github.com/flashbots/mev-inspect-py)
