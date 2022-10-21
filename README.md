@@ -8,7 +8,7 @@ MEV bot security in Ethereum: Know about MEV bot,build a MEV bot,and learn to ho
 
 ##  MEV 
 
-[MEV](https://www.mev.wiki/attack-examples/liquidations)
+[MEV wiki](https://www.mev.wiki/attack-examples/liquidations)
 
 [Flashbot](https://docs.flashbots.net/)
 
