@@ -16,6 +16,8 @@ MEV bot security in Ethereum: Know about MEV bot,build a MEV bot,and learn to ho
 
 [MEV-bot implementation example](https://github.com/flashbots/ethers-provider-flashbots-bundle#example)
 
+[MEV in POS](https://hackmd.io/@flashbots/mev-in-eth2)
+
 
 ## MEV-related research
 
