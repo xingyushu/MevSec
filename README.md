@@ -28,7 +28,7 @@ MEV bot security in Ethereum: Know about MEV bot,build a MEV bot,and learn to ho
 
 [Empirical Analysis of EIP-1559: Transaction Fees, Waiting Time, and Consensus Security](https://arxiv.org/pdf/2201.05574.pdf) [[Data]](https://github.com/d3centralized/eip-1559-empirical-study)
 
-[An Empirical Study on Ethereum Private Transactions and the Security Implications](https://arxiv.org/abs/2208.02858)
+[An Empirical Study on Ethereum Private Transactions and the Security Implications](https://arxiv.org/abs/2208.02858) [[SCRF Disscussion]](https://www.smartcontractresearch.org/t/research-summary-an-empirical-study-on-ethereum-private-transactions-and-the-security-implications/2254)
 
 [Extracting Godl [sic] from the Salt Mines:Ethereum Miners Extracting Value](https://arxiv.org/pdf/2203.15930.pdf)
 
