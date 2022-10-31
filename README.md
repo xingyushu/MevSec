@@ -32,6 +32,8 @@ MEV bot security in Ethereum: Know about MEV bot,build a MEV bot,and learn to ho
 
 [Extracting Godl [sic] from the Salt Mines:Ethereum Miners Extracting Value](https://arxiv.org/pdf/2203.15930.pdf)
 
+[A Flash(bot) in the Pan: Measuring Maximal Extractable Value in Private Pools](https://arxiv.org/abs/2206.04185)
+
 
 ## How to conduct security research 
 
@@ -42,6 +44,10 @@ MEV bot security in Ethereum: Know about MEV bot,build a MEV bot,and learn to ho
 [Opensource mempool data](http://147.135.6.228/)
 
 [MEV github collection](https://github.com/topics/mev)
+
+[MEV research](https://github.com/flashbots/mev-research)
+
+[MEV boost](https://github.com/flashbots/mev-boost/wiki/Research#open-questions)
 
 
 ## How to detect MEV
