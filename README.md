@@ -32,7 +32,7 @@ MEV bot security in Ethereum: Know about MEV bot,build a MEV bot,and learn to ho
 
 [Extracting Godl [sic] from the Salt Mines:Ethereum Miners Extracting Value](https://arxiv.org/pdf/2203.15930.pdf)
 
-[A Flash(bot) in the Pan: Measuring Maximal Extractable Value in Private Pools](https://arxiv.org/abs/2206.04185)
+[A Flash(bot) in the Pan: Measuring Maximal Extractable Value in Private Pools](https://arxiv.org/abs/2206.04185)[[code]](https://github.com/a-flashbot-in-the-pan/a-flashbot-in-the-pan)
 
 
 ## How to conduct security research 
