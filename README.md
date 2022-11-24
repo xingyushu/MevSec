@@ -1,11 +1,6 @@
 # MevSec Research
 MEV bot security in Ethereum: Know about MEV bot,build a MEV bot,and learn to how to run away from [dark forest](https://www.paradigm.xyz/2020/08/ethereum-is-a-dark-forest).If you are interested about this topic feel free to contact me.
 
-## DeFi
-[Defi Mooc](https://rdi.berkeley.edu/berkeley-defi/f22)
-
-[Sok:Decentralized Finance (DeFi)](https://arxiv.org/pdf/2101.08778.pdf)
-
 ##  MEV 
 
 [MEV wiki](https://www.mev.wiki/attack-examples/liquidations)
@@ -18,6 +13,9 @@ MEV bot security in Ethereum: Know about MEV bot,build a MEV bot,and learn to ho
 
 [MEV in POS](https://hackmd.io/@flashbots/mev-in-eth2)
 
+[Defi Mooc](https://rdi.berkeley.edu/berkeley-defi/f22)
+
+[Sok:Decentralized Finance (DeFi)](https://arxiv.org/pdf/2101.08778.pdf)
 
 ## MEV-related research
 
