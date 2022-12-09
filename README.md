@@ -50,6 +50,8 @@ MEV bot security in Ethereum: Know about MEV bot,build a MEV bot,and learn to ho
 
 [MEV builder](https://etherscan.io/accounts/label/mev-builder)
 
+[Ethereum-reorgs](https://www.paradigm.xyz/2021/07/ethereum-reorgs-after-the-merge)
+
 
 ## How to detect MEV
 
