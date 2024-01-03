@@ -1,5 +1,7 @@
 # MevSec Research
-MEV bot security in Ethereum: Know about MEV bot,build a MEV bot,and learn to how to run away from [dark forest](https://www.paradigm.xyz/2020/08/ethereum-is-a-dark-forest).If you are interested about this topic feel free to contact me.
+MEV bot security in Ethereum: Know about MEV bot,build a MEV bot,and learn to how to run away from [dark forest](https://www.paradigm.xyz/2020/08/ethereum-is-a-dark-forest).
+
+
 
 ##  MEV 
 
@@ -73,3 +75,18 @@ MEV bot security in Ethereum: Know about MEV bot,build a MEV bot,and learn to ho
 [ZeroMEV](https://www.zeromev.org/)
 
 [MEV-relay data](https://beaconcha.in/relays)
+
+### Some public data are available,if you are interested about this topic feel free to contact me.
+
+time slot from **01/01/2022~12/31/2023**
+
+>- mempool and private transactions data
+>- mev transactions data
+>- blocks data
+>- proposers and slot,block number
+>- attestations
+>- validator label
+
+
+
+
